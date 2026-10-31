@@ -1,0 +1,8 @@
+.pw-profile/
+*.har
+ui-*.json
+*.png
+ui-evidencia*.html
+api-response*.txt
+node_modules/
+package*.json
